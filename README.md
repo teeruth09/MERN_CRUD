@@ -14,4 +14,4 @@ This application is built using the MERN stack:
 # Frontend setup
 - cd frontend
 - npm create vite@latest .
-  choose React and Javascript version
+  //choose React and Javascript version
